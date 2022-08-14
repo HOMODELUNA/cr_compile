@@ -1,0 +1,9 @@
+name: cr_compile
+version: 0.1.0
+
+authors:
+  - homodeluna <1402692684@qq.com>
+
+crystal: 1.3.2
+
+license: MIT
